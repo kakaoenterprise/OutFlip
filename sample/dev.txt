@@ -1,0 +1,200 @@
+RateBook	rate the current textbook 1 out of 6
+RateBook	Give 0 rating to In the Heart of the Country
+RateBook	rate A Twist in the Tale zero out of 6 points
+RateBook	Give 1 out of 6 rating to the current textbook
+RateBook	rate the current novel zero out of 6
+RateBook	Rate this textbook a one.
+RateBook	Give Small Screen, Big Picture a 0 out of 6 rating.
+RateBook	give the current chronicle five of 6 points
+RateBook	rate The Gift: Imagination and the Erotic Life of Property five stars
+RateBook	Give Summer of the Swans 1 points.
+RateBook	give my current book one of 6 stars
+RateBook	Rate the book The Atmospheric Railway 5 out of 6
+RateBook	Rate the current series 4 points
+RateBook	Rate this current novel two out of 6.
+RateBook	Give five out of 6 points to this album
+RateBook	Gods and Pawns should get a three
+RateBook	Rate The Further Adventures of The Joker four stars
+RateBook	Give the current novel two stars.
+RateBook	Rate The 8-Week Cholesterol Cure three out of 6.
+RateBook	Give Joe Magarac and His USA Citizen Papers 5 points
+RateBook	Give 5 of 6 stars to Expressive Processing
+RateBook	Rate Ruth five out of 6 points.
+RateBook	Give the current series four of 6 points.
+RateBook	Reminiscences of the Anti-Japanese Guerillas chronicle deserves zero points out of 6 for a rating.
+RateBook	Rate The children of Niobe 1 out of 6 points.
+RateBook	Rate Soul Music a 0.
+RateBook	Rate this album 4 out of 6 stars
+RateBook	Rate The Guilty 0 of 6 points
+RateBook	Give The American Scene 2 of 6 stars
+RateBook	Rate the current series four stars.
+RateBook	Rate the current novel a 4 out of 6 stars.
+RateBook	Rate The Sneetches and Other Stories a three
+RateBook	Rate Cotton Comes to Harlem a 2
+RateBook	Give one of 6 points to Who Will Cry When You Die
+RateBook	Give A Brief Stop on the Road from Auschwitz 1 out of 6 stars
+RateBook	I would rate Theft: A Love Story four out of 6 stars.
+RateBook	rate The Sea of Trolls 1 stars out of 6
+RateBook	rate this novel 2 out of 6 points
+RateBook	Give a four rating to A World Apart.
+RateBook	Give the Catedral series four stars.
+RateBook	rate this album four out of 6 stars
+RateBook	Give four stars to The Broken Window
+RateBook	Give this album one stars
+RateBook	Rate Hate That Cat 1 out of 6 stars.
+RateBook	Give zero out of 6 stars to this album
+RateBook	Give this textbook 0 out of 6 stars
+RateBook	Rate this saga two out of 6.
+RateBook	mark this album a score of 5
+RateBook	Rate current novel one stars.
+RateBook	Give a rating of 2 to Juneteenth.
+RateBook	Give two stars out of 6 to 36 Children
+RateBook	Give zero stars to Halo: Ghosts of Onyx
+RateBook	give the current book a zero of 6
+RateBook	Give the current textbook a rating of five.
+RateBook	rate this essay a 1
+RateBook	Give 4 points to The Person and the Common Good
+RateBook	Rate The Mystery of the Tolling Bell series 4 stars.
+RateBook	Rate the chronicle current 1 star
+RateBook	Give Wilco: Learning How to Die a rating of four points.
+RateBook	Give Monthly Index of Medical Specialities a two out of 6 rating.
+RateBook	Give zero stars to this textbook
+RateBook	Give this album 5 points.
+RateBook	rate Know Ye Not Agincourt? 2 out of 6 stars
+RateBook	rate this book a 4 out of 6
+RateBook	Give the current book 4 stars
+RateBook	rate this textbook four out of 6
+RateBook	rate the current novel 5 of 6 stars
+RateBook	rate this chronicle 0 points
+RateBook	Give one start to the current book
+RateBook	Rate this saga two out of 6.
+RateBook	rate the current essay zero out of 6 stars
+RateBook	give this novel a score of 5
+RateBook	Rate In the Company of Cheerful Ladies a zero out of 6
+RateBook	rate Personal Demons 0 out of 6 points
+RateBook	Give The Giant Devil Dingo 4 points.
+RateBook	Rate the current series a 4
+RateBook	Out of 6, give Rivers of Babylon a 1
+RateBook	Give zero stars to Rhialto the Marvellous
+RateBook	Give this textbook four stars.
+RateBook	Rate this book a 1
+RateBook	Give 4 out of 6 points to The Spirit Ring chronicle
+RateBook	Rate the current novel 3 stars
+RateBook	rate the current novel a 2
+RateBook	rate the Three Junes one out of 6
+RateBook	rate Neverwhere four out of 6
+RateBook	rate Black Boy 4 out of 6
+RateBook	Give this novel 2 stars
+RateBook	rate The Adventures of Augie March one points
+RateBook	rate The Lives of John Lennon five points
+RateBook	Give Hindu Temples: What Happened to Them a 5 out of 6 stars.
+RateBook	Give this novel a 1.
+RateBook	rate The Ghost House series a one
+RateBook	rate this novel 3 out of 6 points
+RateBook	Give The Crystal Snare 5 stars
+RateBook	rate this current album 0 stars
+RateBook	Give Wilco: Learning How to Die a rating of four points.
+RateBook	Rate this book 3 stars out of 6
+RateBook	Give zero out of 6 to the current album
+RateBook	Give this chronicle a 2 rating.
+RateBook	give The Zenith Angle one out of 6 points
+SearchScreeningEvent	I want to see Those Kids from Town, when will it be showing?
+SearchScreeningEvent	Is The Ghost playing
+SearchScreeningEvent	what films are playing close by
+SearchScreeningEvent	movie schedules close by for animated movies
+SearchScreeningEvent	Find the movie schedule close by
+SearchScreeningEvent	Show me the schedule for ArcLight Hollywood for only animated movies
+SearchScreeningEvent	what are the movie times
+SearchScreeningEvent	I want to see Outcast.
+SearchScreeningEvent	What's the movie schedule for Great Escape Theatres
+SearchScreeningEvent	What are the movie schedules for my favorite theaters
+SearchScreeningEvent	I need to find the movie theatre showing The Crooked Web closest to me
+SearchScreeningEvent	what are the movie schedules in the neighborhood
+SearchScreeningEvent	what are some close by animated movies showing
+SearchScreeningEvent	What films are playing close by
+SearchScreeningEvent	Show the times for Cheers for Miss Bishop at Dipson Theatres.
+SearchScreeningEvent	Check the timings for Snowbound at the closest movie theatre.
+SearchScreeningEvent	Is Rumor Has It playing
+SearchScreeningEvent	I need animated movies in the area for dinner time
+SearchScreeningEvent	i want to see I Dream of Jeanie in a movie theatre
+SearchScreeningEvent	Can I get the times for movies in the neighbourhood
+SearchScreeningEvent	Where can I find the movie schedules
+SearchScreeningEvent	show me the movie times for films  nearby
+SearchScreeningEvent	Is Babar: King of the Elephants playing
+SearchScreeningEvent	Show the Sexy Dance 2times at the  closest movie house
+SearchScreeningEvent	show the closest movie theatre that shows Boycott
+SearchScreeningEvent	Show me the movies at Harkins Theatres.
+SearchScreeningEvent	Is Bartok the Magnificent playing at seven AM?
+SearchScreeningEvent	where's the nearest movie house showing foreign films
+SearchScreeningEvent	Show the movie schedules in the neighborhood
+SearchScreeningEvent	Fine the movie schedules for the Wanda Group.
+SearchScreeningEvent	show me the schedule for The Oblong Box
+SearchScreeningEvent	Give me the movies in the neighborhood
+SearchScreeningEvent	I need films in the neighborhood
+SearchScreeningEvent	Show me Southern Theatres movie times
+SearchScreeningEvent	Is The Unnaturals showing at 13.
+SearchScreeningEvent	Will I Think I Do be playing at 7 PM?
+SearchScreeningEvent	I want to see Medal for the General
+SearchScreeningEvent	Give me the movie schedule nearby
+SearchScreeningEvent	is We Are Northern Lights playing in any movie theatre
+SearchScreeningEvent	Find the movie schedules for Regal Entertainment Group.
+SearchScreeningEvent	I need a list of Speakeasy Theaters movie times
+SearchScreeningEvent	Is American Primitive showing in Santikos Theatres
+SearchScreeningEvent	Can you check the timings for Super Sweet 16: The Movie?
+SearchScreeningEvent	Is What a Wonderful Place showing at Cinemark Theatres
+SearchScreeningEvent	I want a movie schedule.
+SearchScreeningEvent	What's the movie schedule at Great Escape Theatres
+SearchScreeningEvent	What's the movie schedule
+SearchScreeningEvent	Can I get the movie times
+SearchScreeningEvent	What movies are showing now at the closest cinema?
+SearchScreeningEvent	is The Nightmare showing six hours from now at the nearest cinema.
+SearchScreeningEvent	I want to see While the Sun Shines at the closest movie house.
+SearchScreeningEvent	show me the schedule for Rat Rod Rockers!
+SearchScreeningEvent	I want to see DOA: Dead or Alive at Loews Cineplex Entertainment.
+SearchScreeningEvent	Find the films at Century Theatres.
+SearchScreeningEvent	What are the movies showing in the neighbourhood
+SearchScreeningEvent	What are the movie times for animated movies in the neighbourhood
+SearchScreeningEvent	Find the nearest cinema with movies playing
+SearchScreeningEvent	show me the schedule of movie The Great Gildersleeve near movie house
+SearchScreeningEvent	I want to know if there are any movies playing in the area.
+SearchScreeningEvent	Find animated movies close by
+SearchScreeningEvent	Find the movie schedules at Goodrich Quality Theaters.
+SearchScreeningEvent	Find the schedule at Star Theatres.
+SearchScreeningEvent	Find the movie times at Harkins Theatres.
+SearchScreeningEvent	What is the nearest movie house with Window Connection playing at lunch
+SearchScreeningEvent	Is Any Which Way You Can playing in 15 seconds
+SearchScreeningEvent	Find the movie schedule for North American Cinemas in eleven seconds.
+SearchScreeningEvent	Is Cowboy Canteen playing
+SearchScreeningEvent	Is The Two Gladiators playing
+SearchScreeningEvent	Find the schedule at the Douglas Theatre Company.
+SearchScreeningEvent	what are the times for The Gingerbread Man
+SearchScreeningEvent	Is Patrick Still Lives showing at AMC Theaters
+SearchScreeningEvent	I need times for A Yiddish World Remembered at Dipson Theatres
+SearchScreeningEvent	When is The Outer Space Connection playing at the nearest cinema.
+SearchScreeningEvent	i want to see JLA Adventures: Trapped In Time
+SearchScreeningEvent	I want to see Married to the Enemy 2 at a cinema.
+SearchScreeningEvent	Where can I see The Prime Ministers: The Pioneers
+SearchScreeningEvent	Check the schedule for Bow Tie Cinemas.
+SearchScreeningEvent	show the animated movies playing in the neighbourhood
+SearchScreeningEvent	Is Rare Birds showing at the nearest movie theatre at noon.
+SearchScreeningEvent	I want to see The Portrait of a Lady at the nearest cinema.
+SearchScreeningEvent	What times will The Young Swordsman be showing at my cinema?
+SearchScreeningEvent	What are the movie times at Caribbean Cinemas
+SearchScreeningEvent	Is No Time to Be Young showing at AMC Theaters
+SearchScreeningEvent	I want to see Shattered Image.
+SearchScreeningEvent	Find the schedule for Great Mail Robbery.
+SearchScreeningEvent	Find the movie schedule in the area.
+SearchScreeningEvent	What movies are playing close by
+SearchScreeningEvent	what movies at Star Theatres.
+SearchScreeningEvent	What are the movie times
+SearchScreeningEvent	show me the movie schedule in the neighbourhood
+SearchScreeningEvent	Is any cinema playing The Spirit of Youth
+SearchScreeningEvent	I want to see Fear Chamber.
+SearchScreeningEvent	when is The Fox and the Child playing in this cinema
+SearchScreeningEvent	Can I see Ellis Island Revisited in 1 minute
+SearchScreeningEvent	Find the schedule for The Comedian at Santikos Theatres.
+SearchScreeningEvent	May I have the movie schedules for Speakeasy Theaters
+SearchScreeningEvent	Is Without Witness playing twenty two hours from now
+SearchScreeningEvent	I want animated movies at MJR Theatres
+SearchScreeningEvent	show the movie times for animated movies in the neighbourhood
+SearchScreeningEvent	Is The Eye – Infinity playing at General Cinema Corporation

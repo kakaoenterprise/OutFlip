@@ -1,0 +1,26 @@
+{
+    "lang": "en",
+    "glove": 
+    {
+        "file": "./glove/glove.42B.300d.txt",
+        "pickle": "./glove/glove.42B.300d.pickle",
+        "lower": true
+    },
+    "encoder":
+    {
+        "type": "cnn",
+        "kernel_size": [2,3,4,5],
+        "filter_size": 32,
+        "out_dim": 128
+    },
+    "learning": 
+    {
+        "initial_lr": 1e-3,
+        "decay_step": 2,
+        "decay_rate": 0.8,
+        "batch_size": 128,
+        "tolerance": 5
+    },
+    "attack_ratio": 0.01,
+    "use_antonym": false
+}
