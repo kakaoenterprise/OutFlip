@@ -3,6 +3,8 @@ This is the implemenation of following paper:
 
 DongHyun Choi, Myeong Cheol Shin, EungGyun Kim and Dong Ryeol Shin, OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack, ACL Findings, 2021
 
+https://arxiv.org/abs/2105.05601
+
 ## Requirements
 tensorflow 2.0 <br>
 nltk <br>
